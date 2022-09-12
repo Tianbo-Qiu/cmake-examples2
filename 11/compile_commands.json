@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/11/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++ -DBOOST_ATOMIC_DYN_LINK -DBOOST_ATOMIC_NO_LIB -DBOOST_FILESYSTEM_DYN_LINK -DBOOST_FILESYSTEM_NO_LIB -isystem /opt/homebrew/include  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/hello.dir/main.cpp.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/11/main.cpp",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/11/main.cpp"
+}
+]
