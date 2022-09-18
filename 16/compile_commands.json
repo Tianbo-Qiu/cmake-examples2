@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/build/lib2",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/lib2/include  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/lib2.dir/src/adder.cpp.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/lib2/src/adder.cpp",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/lib2/src/adder.cpp"
+},
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/build/src",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/lib1/include -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/lib2/include  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -o CMakeFiles/main.dir/main.cpp.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/src/main.cpp",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/16/src/main.cpp"
+}
+]

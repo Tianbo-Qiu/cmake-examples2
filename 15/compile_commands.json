@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/opt/homebrew/include -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++17 -o CMakeFiles/hello.dir/main.cpp.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/main.cpp",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/main.cpp"
+},
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/opt/homebrew/include -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6 -std=gnu++17 -o CMakeFiles/hello.dir/AddressBook.pb.cc.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build/AddressBook.pb.cc",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/15/build/AddressBook.pb.cc"
+}
+]
