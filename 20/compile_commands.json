@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/include -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/include -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6  -DGTEST_HAS_PTHREAD=1   -std=c++17 -o CMakeFiles/gmock.dir/src/gmock-all.cc.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/src/gmock-all.cc",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/src/gmock-all.cc"
+},
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-build/googlemock",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/include -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/include -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6  -DGTEST_HAS_PTHREAD=1   -std=c++17 -o CMakeFiles/gmock_main.dir/src/gmock_main.cc.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/src/gmock_main.cc",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googlemock/src/gmock_main.cc"
+},
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/include -I/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6  -DGTEST_HAS_PTHREAD=1   -std=c++17 -o CMakeFiles/gtest.dir/src/gtest-all.cc.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/src/gtest-all.cc",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/src/gtest-all.cc"
+},
+{
+  "directory": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-build/googletest",
+  "command": "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++  -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/include -isystem /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest  -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX12.1.sdk -mmacosx-version-min=11.6  -DGTEST_HAS_PTHREAD=1   -std=c++17 -o CMakeFiles/gtest_main.dir/src/gtest_main.cc.o -c /Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/src/gtest_main.cc",
+  "file": "/Users/tianboqiu/c/toolings/cmake-that-make-any-sense/20/build/_deps/googletest-src/googletest/src/gtest_main.cc"
+}
+]
